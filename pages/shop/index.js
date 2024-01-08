@@ -1,6 +1,8 @@
 import React from 'react';
 import Link from 'next/link';
 
+//in next.js to navigate between internal pages you use Link-href 
+// but to navigate to an external page you use a-href
 
 const Index = (props) => {
 
