@@ -10,7 +10,7 @@ const Index = () => {
     <div>
         <Head>
             <title>Product List</title>
-            <link rel="shortcut icon" type="image/x-icon" href="/images/logo1.png"/>
+            <link rel="shortcut icon" type="image/x-icon" href="/images/logo.png"/>
         </Head>
         <ul>
             <li><Link href={"/shop/product/1"}>product 1</Link></li>

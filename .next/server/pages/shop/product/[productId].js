@@ -51,7 +51,7 @@ eval("__webpack_require__.a(module, async (__webpack_handle_async_dependencies__
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _productId_module_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./[productId].module.css */ \"./pages/shop/product/[productId].module.css\");\n/* harmony import */ var _productId_module_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_productId_module_css__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/router */ \"./node_modules/next/router.js\");\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/head */ \"next/head\");\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! __barrel_optimize__?names=Button,Typography!=!@mui/material */ \"./node_modules/@mui/material/node/index.js\");\n/* harmony import */ var _barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5__);\n\n\n\n\n\n\nconst Product = ()=>{\n    const router = (0,next_router__WEBPACK_IMPORTED_MODULE_2__.useRouter)();\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_productId_module_css__WEBPACK_IMPORTED_MODULE_4___default().div),\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_head__WEBPACK_IMPORTED_MODULE_3___default()), {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"title\", {\n                    children: [\n                        \"Product with id \",\n                        router.query.productId\n                    ]\n                }, void 0, true, {\n                    fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                    lineNumber: 13,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 12,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5__.Typography, {\n                children: [\n                    \"Product with id \",\n                    router.query.productId\n                ]\n            }, void 0, true, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 15,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"img\", {\n                src: `/images/P${router.query.productId}.JPG`\n            }, void 0, false, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5__.Button, {\n                variant: \"contained\",\n                color: \"warning\",\n                children: \"Edit\"\n            }, void 0, false, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 17,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n        lineNumber: 11,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Product);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9zaG9wL3Byb2R1Y3QvW3Byb2R1Y3RJZF0uanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7QUFBMEI7QUFDbUI7QUFDTDtBQUNYO0FBRXNCO0FBQ25ELE1BQU1NLFVBQVU7SUFDZCxNQUFNQyxTQUFTTCxzREFBU0E7SUFFeEIscUJBQ0UsOERBQUNNO1FBQUlDLFdBQVdSLGtFQUFTOzswQkFDdkIsOERBQUNFLGtEQUFJQTswQkFDSCw0RUFBQ087O3dCQUFNO3dCQUFpQkgsT0FBT0ksS0FBSyxDQUFDQyxTQUFTOzs7Ozs7Ozs7Ozs7MEJBRWhELDhEQUFDUCw2RkFBVUE7O29CQUFDO29CQUFpQkUsT0FBT0ksS0FBSyxDQUFDQyxTQUFTOzs7Ozs7OzBCQUNuRCw4REFBQ0M7Z0JBQUlDLEtBQUssQ0FBQyxTQUFTLEVBQUVQLE9BQU9JLEtBQUssQ0FBQ0MsU0FBUyxDQUFDLElBQUksQ0FBQzs7Ozs7OzBCQUNsRCw4REFBQ1IseUZBQU1BO2dCQUFDVyxTQUFTO2dCQUFhQyxPQUFPOzBCQUFXOzs7Ozs7Ozs7Ozs7QUFHdEQ7QUFFQSxpRUFBZVYsT0FBT0EsRUFBQyIsInNvdXJjZXMiOlsid2VicGFjazovL3Nob3BwaW5nX25leHQvLi9wYWdlcy9zaG9wL3Byb2R1Y3QvW3Byb2R1Y3RJZF0uanM/NjY4YiJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgUmVhY3QgZnJvbSBcInJlYWN0XCI7XG5pbXBvcnQgc3R5bGUgZnJvbSBcIi4vW3Byb2R1Y3RJZF0ubW9kdWxlLmNzc1wiO1xuaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSBcIm5leHQvcm91dGVyXCI7XG5pbXBvcnQgSGVhZCBmcm9tIFwibmV4dC9oZWFkXCI7XG5cbmltcG9ydCB7IEJ1dHRvbiwgVHlwb2dyYXBoeSB9IGZyb20gXCJAbXVpL21hdGVyaWFsXCI7XG5jb25zdCBQcm9kdWN0ID0gKCkgPT4ge1xuICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTtcblxuICByZXR1cm4gKFxuICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZS5kaXZ9PlxuICAgICAgPEhlYWQ+XG4gICAgICAgIDx0aXRsZT5Qcm9kdWN0IHdpdGggaWQge3JvdXRlci5xdWVyeS5wcm9kdWN0SWR9PC90aXRsZT5cbiAgICAgIDwvSGVhZD5cbiAgICAgIDxUeXBvZ3JhcGh5PlByb2R1Y3Qgd2l0aCBpZCB7cm91dGVyLnF1ZXJ5LnByb2R1Y3RJZH08L1R5cG9ncmFwaHk+XG4gICAgICA8aW1nIHNyYz17YC9pbWFnZXMvUCR7cm91dGVyLnF1ZXJ5LnByb2R1Y3RJZH0uSlBHYH0gLz5cbiAgICAgIDxCdXR0b24gdmFyaWFudD17XCJjb250YWluZWRcIn0gY29sb3I9e1wid2FybmluZ1wifT5FZGl0PC9CdXR0b24+XG4gICAgPC9kaXY+XG4gICk7XG59O1xuXG5leHBvcnQgZGVmYXVsdCBQcm9kdWN0O1xuIl0sIm5hbWVzIjpbIlJlYWN0Iiwic3R5bGUiLCJ1c2VSb3V0ZXIiLCJIZWFkIiwiQnV0dG9uIiwiVHlwb2dyYXBoeSIsIlByb2R1Y3QiLCJyb3V0ZXIiLCJkaXYiLCJjbGFzc05hbWUiLCJ0aXRsZSIsInF1ZXJ5IiwicHJvZHVjdElkIiwiaW1nIiwic3JjIiwidmFyaWFudCIsImNvbG9yIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/shop/product/[productId].js\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"react/jsx-dev-runtime\");\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ \"react\");\n/* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _productId_module_css__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./[productId].module.css */ \"./pages/shop/product/[productId].module.css\");\n/* harmony import */ var _productId_module_css__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_productId_module_css__WEBPACK_IMPORTED_MODULE_4__);\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! next/router */ \"./node_modules/next/router.js\");\n/* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_2__);\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! next/head */ \"next/head\");\n/* harmony import */ var next_head__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(next_head__WEBPACK_IMPORTED_MODULE_3__);\n/* harmony import */ var _barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! __barrel_optimize__?names=Button,Typography!=!@mui/material */ \"./node_modules/@mui/material/node/Typography/index.js\");\n/* harmony import */ var _barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5__);\n/* harmony import */ var _barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! __barrel_optimize__?names=Button,Typography!=!@mui/material */ \"./node_modules/@mui/material/node/Button/index.js\");\n/* harmony import */ var _barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_6__);\n\n\n\n\n\n\nconst Product = ()=>{\n    const router = (0,next_router__WEBPACK_IMPORTED_MODULE_2__.useRouter)();\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: (_productId_module_css__WEBPACK_IMPORTED_MODULE_4___default().div),\n        children: [\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((next_head__WEBPACK_IMPORTED_MODULE_3___default()), {\n                children: /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"title\", {\n                    children: [\n                        \"Product with id \",\n                        router.query.productId\n                    ]\n                }, void 0, true, {\n                    fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                    lineNumber: 13,\n                    columnNumber: 9\n                }, undefined)\n            }, void 0, false, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 12,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_5___default()), {\n                children: [\n                    \"Product with id \",\n                    router.query.productId\n                ]\n            }, void 0, true, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 15,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"img\", {\n                src: `/images/P${router.query.productId}.JPG`\n            }, void 0, false, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 16,\n                columnNumber: 7\n            }, undefined),\n            /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)((_barrel_optimize_names_Button_Typography_mui_material__WEBPACK_IMPORTED_MODULE_6___default()), {\n                variant: \"contained\",\n                color: \"warning\",\n                children: \"Edit\"\n            }, void 0, false, {\n                fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n                lineNumber: 17,\n                columnNumber: 7\n            }, undefined)\n        ]\n    }, void 0, true, {\n        fileName: \"/Users/elahe/Documents/Arash-code/react/react-next/pages/shop/product/[productId].js\",\n        lineNumber: 11,\n        columnNumber: 5\n    }, undefined);\n};\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (Product);\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9zaG9wL3Byb2R1Y3QvW3Byb2R1Y3RJZF0uanMiLCJtYXBwaW5ncyI6Ijs7Ozs7Ozs7Ozs7Ozs7Ozs7OztBQUEwQjtBQUNtQjtBQUNMO0FBQ1g7QUFFc0I7QUFDbkQsTUFBTU0sVUFBVTtJQUNkLE1BQU1DLFNBQVNMLHNEQUFTQTtJQUV4QixxQkFDRSw4REFBQ007UUFBSUMsV0FBV1Isa0VBQVM7OzBCQUN2Qiw4REFBQ0Usa0RBQUlBOzBCQUNILDRFQUFDTzs7d0JBQU07d0JBQWlCSCxPQUFPSSxLQUFLLENBQUNDLFNBQVM7Ozs7Ozs7Ozs7OzswQkFFaEQsOERBQUNQLDhGQUFVQTs7b0JBQUM7b0JBQWlCRSxPQUFPSSxLQUFLLENBQUNDLFNBQVM7Ozs7Ozs7MEJBQ25ELDhEQUFDQztnQkFBSUMsS0FBSyxDQUFDLFNBQVMsRUFBRVAsT0FBT0ksS0FBSyxDQUFDQyxTQUFTLENBQUMsSUFBSSxDQUFDOzs7Ozs7MEJBQ2xELDhEQUFDUiw4RkFBTUE7Z0JBQUNXLFNBQVM7Z0JBQWFDLE9BQU87MEJBQVc7Ozs7Ozs7Ozs7OztBQUd0RDtBQUVBLGlFQUFlVixPQUFPQSxFQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vc2hvcHBpbmdfbmV4dC8uL3BhZ2VzL3Nob3AvcHJvZHVjdC9bcHJvZHVjdElkXS5qcz82NjhiIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBSZWFjdCBmcm9tIFwicmVhY3RcIjtcbmltcG9ydCBzdHlsZSBmcm9tIFwiLi9bcHJvZHVjdElkXS5tb2R1bGUuY3NzXCI7XG5pbXBvcnQgeyB1c2VSb3V0ZXIgfSBmcm9tIFwibmV4dC9yb3V0ZXJcIjtcbmltcG9ydCBIZWFkIGZyb20gXCJuZXh0L2hlYWRcIjtcblxuaW1wb3J0IHsgQnV0dG9uLCBUeXBvZ3JhcGh5IH0gZnJvbSBcIkBtdWkvbWF0ZXJpYWxcIjtcbmNvbnN0IFByb2R1Y3QgPSAoKSA9PiB7XG4gIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpO1xuXG4gIHJldHVybiAoXG4gICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlLmRpdn0+XG4gICAgICA8SGVhZD5cbiAgICAgICAgPHRpdGxlPlByb2R1Y3Qgd2l0aCBpZCB7cm91dGVyLnF1ZXJ5LnByb2R1Y3RJZH08L3RpdGxlPlxuICAgICAgPC9IZWFkPlxuICAgICAgPFR5cG9ncmFwaHk+UHJvZHVjdCB3aXRoIGlkIHtyb3V0ZXIucXVlcnkucHJvZHVjdElkfTwvVHlwb2dyYXBoeT5cbiAgICAgIDxpbWcgc3JjPXtgL2ltYWdlcy9QJHtyb3V0ZXIucXVlcnkucHJvZHVjdElkfS5KUEdgfSAvPlxuICAgICAgPEJ1dHRvbiB2YXJpYW50PXtcImNvbnRhaW5lZFwifSBjb2xvcj17XCJ3YXJuaW5nXCJ9PkVkaXQ8L0J1dHRvbj5cbiAgICA8L2Rpdj5cbiAgKTtcbn07XG5cbmV4cG9ydCBkZWZhdWx0IFByb2R1Y3Q7XG4iXSwibmFtZXMiOlsiUmVhY3QiLCJzdHlsZSIsInVzZVJvdXRlciIsIkhlYWQiLCJCdXR0b24iLCJUeXBvZ3JhcGh5IiwiUHJvZHVjdCIsInJvdXRlciIsImRpdiIsImNsYXNzTmFtZSIsInRpdGxlIiwicXVlcnkiLCJwcm9kdWN0SWQiLCJpbWciLCJzcmMiLCJ2YXJpYW50IiwiY29sb3IiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./pages/shop/product/[productId].js\n");
 
 /***/ }),
 
@@ -86,94 +86,6 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 
 /***/ }),
 
-/***/ "@mui/base":
-/*!****************************!*\
-  !*** external "@mui/base" ***!
-  \****************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base");
-
-/***/ }),
-
-/***/ "@mui/base/ClassNameGenerator":
-/*!***********************************************!*\
-  !*** external "@mui/base/ClassNameGenerator" ***!
-  \***********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/ClassNameGenerator");
-
-/***/ }),
-
-/***/ "@mui/base/ClickAwayListener":
-/*!**********************************************!*\
-  !*** external "@mui/base/ClickAwayListener" ***!
-  \**********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/ClickAwayListener");
-
-/***/ }),
-
-/***/ "@mui/base/FocusTrap":
-/*!**************************************!*\
-  !*** external "@mui/base/FocusTrap" ***!
-  \**************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/FocusTrap");
-
-/***/ }),
-
-/***/ "@mui/base/NoSsr":
-/*!**********************************!*\
-  !*** external "@mui/base/NoSsr" ***!
-  \**********************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/NoSsr");
-
-/***/ }),
-
-/***/ "@mui/base/Popper":
-/*!***********************************!*\
-  !*** external "@mui/base/Popper" ***!
-  \***********************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/Popper");
-
-/***/ }),
-
-/***/ "@mui/base/Portal":
-/*!***********************************!*\
-  !*** external "@mui/base/Portal" ***!
-  \***********************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/Portal");
-
-/***/ }),
-
-/***/ "@mui/base/TextareaAutosize":
-/*!*********************************************!*\
-  !*** external "@mui/base/TextareaAutosize" ***!
-  \*********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/TextareaAutosize");
-
-/***/ }),
-
 /***/ "@mui/base/composeClasses":
 /*!*******************************************!*\
   !*** external "@mui/base/composeClasses" ***!
@@ -182,72 +94,6 @@ module.exports = require("@mui/base/TextareaAutosize");
 
 "use strict";
 module.exports = require("@mui/base/composeClasses");
-
-/***/ }),
-
-/***/ "@mui/base/unstable_useModal":
-/*!**********************************************!*\
-  !*** external "@mui/base/unstable_useModal" ***!
-  \**********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/unstable_useModal");
-
-/***/ }),
-
-/***/ "@mui/base/useAutocomplete":
-/*!********************************************!*\
-  !*** external "@mui/base/useAutocomplete" ***!
-  \********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/useAutocomplete");
-
-/***/ }),
-
-/***/ "@mui/base/useBadge":
-/*!*************************************!*\
-  !*** external "@mui/base/useBadge" ***!
-  \*************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/useBadge");
-
-/***/ }),
-
-/***/ "@mui/base/useSlider":
-/*!**************************************!*\
-  !*** external "@mui/base/useSlider" ***!
-  \**************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/useSlider");
-
-/***/ }),
-
-/***/ "@mui/base/useSnackbar":
-/*!****************************************!*\
-  !*** external "@mui/base/useSnackbar" ***!
-  \****************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/useSnackbar");
-
-/***/ }),
-
-/***/ "@mui/base/utils":
-/*!**********************************!*\
-  !*** external "@mui/base/utils" ***!
-  \**********************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/base/utils");
 
 /***/ }),
 
@@ -270,17 +116,6 @@ module.exports = require("@mui/material/styles");
 
 "use strict";
 module.exports = require("@mui/system");
-
-/***/ }),
-
-/***/ "@mui/system/Unstable_Grid":
-/*!********************************************!*\
-  !*** external "@mui/system/Unstable_Grid" ***!
-  \********************************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("@mui/system/Unstable_Grid");
 
 /***/ }),
 
@@ -391,17 +226,6 @@ module.exports = require("react");
 
 "use strict";
 module.exports = require("react-dom");
-
-/***/ }),
-
-/***/ "react-is":
-/*!***************************!*\
-  !*** external "react-is" ***!
-  \***************************/
-/***/ ((module) => {
-
-"use strict";
-module.exports = require("react-is");
 
 /***/ }),
 
