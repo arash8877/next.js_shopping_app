@@ -1,4 +1,5 @@
 import React from 'react';
+import style from './[productId].module.css';
 import { useRouter } from 'next/router';
 
 const Product = () => {
