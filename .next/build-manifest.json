@@ -25,15 +25,15 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/shop": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/shop.js"
+    ],
     "/shop/product/[pname]": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/shop/product/[pname].js"
-    ],
-    "/shop/product2/[...slug]": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/shop/product2/[...slug].js"
     ]
   },
   "ampFirstPages": []

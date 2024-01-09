@@ -3,6 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/shop": "pages/shop.js",
-  "/shop/product/[pname]": "pages/shop/product/[pname].js",
-  "/shop/product2/[...slug]": "pages/shop/product2/[...slug].js"
+  "/shop/product/[pname]": "pages/shop/product/[pname].js"
 }
