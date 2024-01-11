@@ -20,7 +20,14 @@ export const getStaticProps = async ({params}) => {
   };
   
 
-
+export const getStaticPaths = async () => {
+  const res = await axios.get("http://localhost:3001/posts");
+  const paths = res.data.map((post) => `/posts/${post.id}`);
+  return {
+    paths,
+    fallback: false,
+  };
+};
 
 
 
