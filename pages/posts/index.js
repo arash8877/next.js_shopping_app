@@ -7,7 +7,13 @@ import React from "react";
 function Posts({ posts }) {
   return (
     <div>
-     ffffffff
+    <ul>
+        {posts.map((post) => (
+          <li key={post.id}>
+            <Link href={`/posts/${post.id}`}>{post.title}</Link>
+          </li>
+        ))}
+      </ul>
     </div>
   );
 }
