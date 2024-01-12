@@ -1,12 +1,13 @@
 {
-  "name": "shopping_next",
+  "name": "mynext",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "concurrently \"npm run json-server\" \"next dev\"",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "json-server": "json-server --watch db.json --port 3001"
   },
   "dependencies": {
     "@emotion/react": "^11.11.3",
@@ -14,9 +15,15 @@
     "@mui/icons-material": "^5.15.3",
     "@mui/material": "^5.15.3",
     "@mui/styled-engine-sc": "^6.0.0-alpha.11",
+    "axios": "^1.6.5",
     "next": "14.0.4",
     "react": "^18",
     "react-dom": "^18",
-    "styled-components": "^6.1.8"
+    "styled-components": "^6.1.8",
+    "tinycolor2": "^1.6.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "json-server": "^1.0.0-alpha.16"
   }
 }
