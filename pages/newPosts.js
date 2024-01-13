@@ -1,10 +1,11 @@
 import axios from "axios";
 import React from "react";
-import { Link } from "react-router-dom";
+import Link from "next/link";
 
 const newPosts = ({ posts }) => {
   return (
     <div>
+      <h1>New Posts</h1>
       <ul>
         {posts.map((post) => (
           <li key={post.id}>
