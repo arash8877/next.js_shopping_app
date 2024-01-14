@@ -1,7 +1,20 @@
+import React, {useEffect} from "react";
 import axios from "axios";
-import React from "react";
 
 const PostDetail = ({ post }) => {
+
+  useEffect(() => {
+    const res = axios.get(`http://localhost:3001/comments?postId=${post.id}`);
+    try {
+      console.log(res.data)
+    } catch (error) {
+      console.log(error);
+    }
+  }, [])
+  
+
+
+
   return (
     <div>
       <h1>{post.title}</h1>

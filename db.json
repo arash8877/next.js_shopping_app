@@ -6,7 +6,12 @@
     { "id": "4", "title": "Post 4", "desc": "..... description" }
   ],
   "comments": [
-    { "id": "1", "body": "Comment 1" },
-    { "id": "2", "body": "Comment 2" }
+    { "id": "1", "sender": "Peter", "comment": "It is great!", "postId": "1" },
+    { "id": "2", "sender": "Mads", "comment": "Looks nice!", "postId": "1" },
+    { "id": "3", "sender": "Jimmy", "comment": "Well done!", "postId": "1" },
+    { "id": "4", "sender": "Tom", "comment": "Big like!", "postId": "2" },
+    { "id": "5", "sender": "Alex", "comment": "Nice work!", "postId": "2" },
+    { "id": "6", "sender": "Vilma", "comment": "I do not like it!", "postId": "3" },
+    { "id": "7", "sender": "Anne", "comment": "Could be better!" , "postId": "4"}
   ]
 }
